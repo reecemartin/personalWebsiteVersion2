@@ -1,0 +1,10 @@
+.textContainer {
+    align-content: center;
+    margin-left: 10%;
+    max-width: 80%;
+}
+
+.courseCol {
+    display: inline-block;
+}
+
