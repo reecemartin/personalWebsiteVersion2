@@ -13,3 +13,7 @@
     max-width: 80%;
     max-height: 700px;
 }
+
+#profileCircle {
+    border-radius: 50%;
+}
