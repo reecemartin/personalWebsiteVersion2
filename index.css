@@ -17,3 +17,23 @@
 #profileCircle {
     border-radius: 50%;
 }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+    th {
+        text-align: center;
+    }
+    td {
+        text-align: center;
+    }
+    a:link{
+        color: RoyalBlue;
+    }
+    a:visited{
+        color: SteelBlue;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+    a:active{
+        text-decoration: underline;
+    }
