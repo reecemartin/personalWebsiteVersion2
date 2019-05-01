@@ -18,6 +18,10 @@
     border-radius: 50%;
 }
 
+.logoImg {
+    max-width: 200px;
+}
+
 tr:nth-child(even) {background-color: #f2f2f2;}
     th {
         text-align: center;
